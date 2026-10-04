@@ -1,0 +1,6 @@
+56d8209 Merge branch 'main' of https://github.com/Dana-915/discovery-web-piscine
+7f6aff6 Add hello.txt
+e5c0c6d Delete ex00/dev_workspace/tree_structure.txt
+6799716 Add ex00 to ex03
+0a8a303 Add Project 00 exercises ex00-ex03
+08c8971 Submit Project 00 exercises
